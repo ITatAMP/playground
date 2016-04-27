@@ -1,0 +1,8 @@
+<!--
+Project Name: Nebuchadnezzar
+-->
+<project name="nebuchadnezzar" default="build" basedir=".">
+    <target name="build" description="Build the Nebuchadnezzar" >
+        <echo message="Built and ready for deployment!"/>
+    </target>
+</project>
